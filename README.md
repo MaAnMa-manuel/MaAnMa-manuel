@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaAnMa-manuel
-- 👀 I’m interested in Smarthome all all around that
+- 👀 I’m interested in Smarthome n' all around that ...
 - 🌱 I’m currently learning OpenHAB, HASP, 8266, 3d Printing ...
 
 <!---
